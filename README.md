@@ -1,20 +1,15 @@
-# ims
-Inventory Management System including Support Center
+# Inventory Management System
+Inventory Management System including Support Center, built in PHP & MySQL.
 
-Features:-
+### Features
 
-Manage Products
+* Manage Products
+* Manage Organisations
+* Allocate Products
+* Manage Users
 
-Manage Organisations
+### Additional Features:-
 
-Allocate Products
-
-Manage Users
-
-Also Provides:-
-
-Profiles for each user
-
-Complaint System
-
-Support Center
+* Profiles for each user
+* Complaint System
+* Support Center
